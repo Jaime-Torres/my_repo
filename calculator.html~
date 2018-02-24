@@ -8,7 +8,7 @@
 	}
 	 function seno() {
 	   var num = document.getElementById("n1");
-	   num.value = Math.sin(num);
+	   num.value = sin(num);
 	}
 	</script>
 </head>
